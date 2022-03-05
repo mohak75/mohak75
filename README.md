@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="programming" width="500" height="auto">
+<img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="programming" width="500" height="auto" align="center">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohak</h1>
 <h3 align="center">I'm a self-taught programmer and security enthusiast<h3>
