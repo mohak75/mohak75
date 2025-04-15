@@ -1,3 +1,3 @@
 # Welcome to The Wired
 
-![Lain GIF](https://media.tenor.com/images/123abc456def789ghijklmno.gif)
+![Lain Glitch](https://raw.githubusercontent.com/mohak75/assests/main/lain-serial-experiments-lain.gif)
