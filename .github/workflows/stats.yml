@@ -1,23 +1,35 @@
-name: GitHub Readme Stats
+name: Update GitHub Stats
 
-# Controls when the action will run
 on:
+  # Runs at 00:00 UTC every day
   schedule:
-    # Runs at 00:00 UTC every day
     - cron: '0 0 * * *'
-  # Allows you to run this workflow manually from the Actions tab
+  # Allows manual trigger from the Actions tab
   workflow_dispatch:
 
 jobs:
-  update-readme:
-    name: Update GitHub Stats
+  update-stats:
     runs-on: ubuntu-latest
     steps:
-      - name: Update README
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub stats card
         uses: anuraghazra/github-readme-stats@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          # Your GitHub username
           username: mohak75
-          # The name of the repository where the stats will be committed
-          repo: mohak75
+          theme: dark
+          show_icons: true
+
+      - name: Commit and push if stats changed
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update GitHub stats card"
+            git push
+          fi
