@@ -6,6 +6,15 @@
 
 `Security Researcher | Blue Team |`
 
+---
+
+### 🛠️ Skills & Tools
+
+![](https://skillicons.dev/icons?i=python,linux,docker,bash,git&theme=dark)
+
+---
+
+
 
 ### About Me
 I am an Information Security student
