@@ -11,7 +11,7 @@
  |_|  |_|\___|_|_|\___/                     
                         
 ```
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AD3F7&center=true&vCenter=true&width=435&lines=Security+%7C+Creator+%7C+Learne)](https://git.io/typing-svg)                        
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AD3F7&center=true&vCenter=true&width=435&lines=Hello+%7C+I+%7C+am+%7C+Mohak)](https://git.io/typing-svg)                        
                         
 `Security Researcher`
 
