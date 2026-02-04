@@ -17,7 +17,7 @@
 ### About Me
 I am an Information Security student
 
-
+![Metrics](github-metrics.svg)
 
 
 
