@@ -16,3 +16,5 @@
 
 ### About Me
 I am an Information Security student
+
+![Mohak's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohak75&show_icons=true&theme=dark)
