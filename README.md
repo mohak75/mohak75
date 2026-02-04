@@ -18,4 +18,4 @@
 I am an Information Security student
 
 
-![GitHub Stats](./stats.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohak75&theme=dark&show_icons=true&format=png)
