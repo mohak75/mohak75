@@ -39,6 +39,7 @@ I am an Information Security student
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Heloo+I+am+Mohak)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Hello+I+am+Mohak)](https://git.io/typing-svg)
 </div>
 
 
