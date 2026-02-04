@@ -30,6 +30,12 @@ I am an Information Security student
 
 ![](https://komarev.com/ghpvc/?username=mohak75&color=blueviolet&style=flat-square)
 
+![](https://streak-stats.demolab.com/?user=mohak75&theme=dark)
+
+![](https://github-profile-trophy.vercel.app/?username=mohak75&theme=darkhub&no-frame=true&row=1&column=7)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Developer;Problem+Solver;Open+Source+Contributor)](https://git.io/typing-svg)
+
 </div>
 
 
