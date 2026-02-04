@@ -1,1 +1,23 @@
+name: GitHub Readme Stats
 
+# Controls when the action will run
+on:
+  schedule:
+    # Runs at 00:00 UTC every day
+    - cron: '0 0 * * *'
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update GitHub Stats
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update README
+        uses: anuraghazra/github-readme-stats@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          # Your GitHub username
+          username: mohak75
+          # The name of the repository where the stats will be committed
+          repo: mohak75
