@@ -18,3 +18,4 @@
 I am an Information Security student
 
 
+![GitHub Stats](./stats.svg)
