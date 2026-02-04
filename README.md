@@ -1,3 +1,6 @@
+
+
+
 #  👾 Mohak 
 ```
   _    _      _ _       
@@ -8,7 +11,7 @@
  |_|  |_|\___|_|_|\___/                     
                         
 ```
-                        
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AD3F7&center=true&vCenter=true&width=435&lines=Security+%7C+Creator+%7C+Learne)](https://git.io/typing-svg)                        
                         
 `Security Researcher`
 
@@ -22,7 +25,7 @@ I am an Information Security student
 ![](https://count.getloli.com/get/@mohak75?theme=rule34)
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AD3F7&center=true&vCenter=true&width=435&lines=Security+%7C+Creator+%7C+Learner)](https://git.io/typing-svg)
+
 
 ![](https://github-readme-stats.vercel.app/api?username=mohak75&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
@@ -34,7 +37,7 @@ I am an Information Security student
 
 ![](https://github-profile-trophy.vercel.app/?username=mohak75&theme=darkhub&no-frame=true&row=1&column=7)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Developer;Problem+Solver;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Heloo+I+am+Mohak)](https://git.io/typing-svg)
 
 </div>
 
