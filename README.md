@@ -17,7 +17,9 @@
 ### About Me
 I am an Information Security student
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
+![](https://count.getloli.com/get/@mohak75?theme=rule34)
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AD3F7&center=true&vCenter=true&width=435&lines=Security+%7C+Creator+%7C+Learner)](https://git.io/typing-svg)
