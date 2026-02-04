@@ -19,10 +19,5 @@ I am an Information Security student
 
 
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mohak75.vercel.app/api?username=mohak75&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-mohak75.vercel.app/api?username=mohak75&show_icons=true">
-</picture>
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohak75&theme=dark)
