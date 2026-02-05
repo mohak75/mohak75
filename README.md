@@ -15,7 +15,7 @@
 ---
 
 ### About Me
-I am an Information Security student
+I am currently an Information Security student with a research focus on cybersafty and online harm.
 
 ---
 
