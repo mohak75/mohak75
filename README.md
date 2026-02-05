@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&center=true&lines=Hello+I+am+Mohak" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&center=true&lines=Information+Security+Student" />
     </td>
   </tr>
 </table>
@@ -58,7 +58,6 @@ I am an Information Security student
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-![](https://count.getloli.com/get/@mohak75?theme=rule34)
 
 ![](https://count.getloli.com/get/@mohak75?theme=moebooru)
 
