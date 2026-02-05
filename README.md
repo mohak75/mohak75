@@ -8,9 +8,10 @@
 
 <div align="center">
   
-`Security Researcher | Blue Team | `
+`Security Researcher | Blue Team |`
 
 </div>
+
 ---
 
 ### About Me
@@ -59,6 +60,7 @@ I am an Information Security student
 
 ![](https://count.getloli.com/get/@mohak75?theme=rule34)
 
+![](https://count.getloli.com/get/@mohak75?theme=moebooru)
 
 
 
