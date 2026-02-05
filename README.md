@@ -15,7 +15,7 @@
 ---
 
 ### About Me
-I am currently an Information Security student with a research focus on cybersafety and online harm. I don't program as often as I would like to, but I have some interesting ideas I want to implement this year. 
+I am currently an Information Security student with a research focus on cybersafety and online harm. I don't program as often as I would like to, but I have some interesting ideas I want to implement this year. I like to maintain a blog that doesnt get updated that often [My Blog](https://mohakblog.netlify.app/)
 
 ---
 
@@ -39,7 +39,7 @@ I am currently an Information Security student with a research focus on cybersaf
 
  <div align="center">
   
-<p>A society grows great when old men plant trees in whose shade they know they shall never sit.”</p>
+<p>"A society grows great when old men plant trees in whose shade they know they shall never sit.”</p>
 — Ancient Greek Proverb
 </div> 
 
