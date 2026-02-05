@@ -1,7 +1,8 @@
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Hello+I+am+Mohak)](https://git.io/typing-svg)
-
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Hello+I+am+Mohak"
+    alt="Typing SVG"
+  />
 </div>
 
 `Security Researcher | Blue Team |`
@@ -12,7 +13,7 @@
 
 ### 🛠️ Skills & Tools
 
-<img src="https://skillicons.dev/icons?i=python,linux,bash,docker,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,linux,git&theme=dark" />
 
 </div>
 
