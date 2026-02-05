@@ -15,7 +15,7 @@
 ---
 
 ### About Me
-I am currently an Information Security student with a research focus on cybersafety and online harm. I don't program as often as I would like to, but I have some interesting ideas I want to implement this year. I like to maintain a blog that doesnt get updated that often [My Blog](https://mohakblog.netlify.app/)
+I am currently an Information Security student with a research focus on cybersafety and online harm. I don't program as often as I would like to, but I have some interesting ideas I want to implement this year. I like to maintain a [blog](https://mohakblog.netlify.app/) that doesnt get updated that often.
 
 ---
 
