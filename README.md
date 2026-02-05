@@ -7,8 +7,15 @@
 </table>
 
 <div align="center">
-`Security Researcher | Blue Team |`
+  
+`Security Researcher | Blue Team | `
+
 </div>
+---
+
+### About Me
+I am an Information Security student
+
 ---
 
 <div align="center">
@@ -46,8 +53,7 @@
 
 ---
 
-### About Me
-I am an Information Security student
+
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
