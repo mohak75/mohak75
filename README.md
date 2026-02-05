@@ -1,9 +1,10 @@
-<div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Hello+I+am+Mohak"
-    alt="Typing SVG"
-  />
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&center=true&lines=Hello+I+am+Mohak" />
+    </td>
+  </tr>
+</table>
 
 `Security Researcher | Blue Team |`
 
