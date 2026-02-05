@@ -15,7 +15,7 @@
 ---
 
 ### About Me
-I am currently an Information Security student with a research focus on cybersafty and online harm.
+I am currently an Information Security student with a research focus on cybersafty and online harm. I dont program as often as i would like to but i have some intresting idea i want to implement this year.
 
 ---
 
@@ -27,9 +27,7 @@ I am currently an Information Security student with a research focus on cybersaf
   </a>
 </p>
 
-
-
-
+---
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
