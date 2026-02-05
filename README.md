@@ -19,13 +19,12 @@ I am currently an Information Security student with a research focus on cybersaf
 
 ---
 
-<div align="center">
 
-### 🛠️ Skills & Tools
-
-<img src="https://skillicons.dev/icons?i=python,linux,git&theme=dark" />
-
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mint,neovim,git,github,python,c,haskell" />
+  </a>
+</p>
 
 ---
 
