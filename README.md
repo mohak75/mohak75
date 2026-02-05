@@ -15,7 +15,7 @@
 ---
 
 ### About Me
-I am currently an Information Security student with a research focus on cybersafty and online harm. I dont program as often as i would like to but i have some intresting idea i want to implement this year.
+I am currently an Information Security student with a research focus on cybersafety and online harm. I don't program as often as I would like to, but I have some interesting ideas I want to implement this year. 
 
 ---
 
