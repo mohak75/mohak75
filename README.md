@@ -13,7 +13,13 @@
 ![](https://skillicons.dev/icons?i=python,linux,docker,bash,git&theme=dark)
 
 ---
+<div align="center">
 
+### 🛠️ Skills & Tools
+
+<img src="https://skillicons.dev/icons?i=python,linux,bash,docker,git&theme=dark" />
+
+</div>
 
 
 ### About Me
