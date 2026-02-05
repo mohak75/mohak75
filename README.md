@@ -31,15 +31,19 @@ I am currently an Information Security student with a research focus on cybersaf
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
+---
+
 ![](https://count.getloli.com/get/@mohak75?theme=moebooru)
+
+---
 
  <div align="center">
   
 <p>A society grows great when old men plant trees in whose shade they know they shall never sit.”</p>
-
+— Ancient Greek Proverb
 </div> 
 
 
-— Ancient Greek Proverb
+
 
 
