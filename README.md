@@ -6,11 +6,11 @@
   </tr>
 </table>
 
-<div align="center">
+<!-- <div align="center">
   
 `Security Researcher | Blue Team |`
 
-</div>
+</div> -->
 
 ---
 
