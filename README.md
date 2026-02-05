@@ -8,11 +8,6 @@
 
 ---
 
-### 🛠️ Skills & Tools
-
-![](https://skillicons.dev/icons?i=python,linux,docker,bash,git&theme=dark)
-
----
 <div align="center">
 
 ### 🛠️ Skills & Tools
@@ -21,6 +16,9 @@
 
 </div>
 
+---
+
+![](https://github-profile-trophy.vercel.app/?username=mohak75&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ### About Me
 I am an Information Security student
