@@ -21,7 +21,7 @@ I am currently an Information Security student with a research focus on cybersaf
 
 ### Daily Tools
 
-<p align="center">
+<!-- <p align="center"> -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mint,neovim,git,github,python,c,haskell" />
   </a>
